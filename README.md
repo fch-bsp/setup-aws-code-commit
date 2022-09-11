@@ -1,9 +1,9 @@
-# Welcome to AWS Code Commit
-You can use the AWS Management Console and upload, add, or edit a file to a repository directly from the AWS CodeCommit console. This is a quick way to make a change. However, if you want to work with multiple files, files across branches, and so on, consider setting up your local computer to work with repositories. In this demo, we will learn how to setup AWS Code Commit using SSH and IAM roles.
+# Instrução de adicionar no AWS Code Commit
+Você pode usar o Console de gerenciamento da AWS e fazer upload, adicionar ou editar um arquivo em um repositório diretamente do console do AWS CodeCommit. Esta é uma maneira rápida de fazer uma mudança. No entanto, se você quiser trabalhar com vários arquivos, arquivos entre ramificações e assim por diante, considere configurar seu computador local para trabalhar com repositórios. Nesta demonstração, aprenderemos como configurar o AWS Code Commit usando funções SSH e IAM.
+
 
 ![Set Up SSH Connections to AWS CodeCommit Repositories](https://raw.githubusercontent.com/miztiik/setup-aws-code-commit/master/images/SSH%20Connections%20to%20AWS%20CodeCommit%20Repositories.png)
 
-#### Follow this article in [Youtube](https://www.youtube.com/watch?v=OHXDPDc1qEE&list=PLxzKY3wu0_FKok5gI1v4g4S-g-PLaW9YD&index=20)
 
 ## Set Up SSH Connections to AWS CodeCommit Repositories
 
